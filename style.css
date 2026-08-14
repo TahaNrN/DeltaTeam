@@ -1,0 +1,46 @@
+.header-d{
+    font-size: 75px;
+    padding: 50px;
+    text-align: center;
+    border: 6px  solid black;
+    border-radius: 8px;
+}
+.body-m{
+    background-color:#B3CBE4;
+}
+.cnt{
+    border: 6px solid black;
+    border-radius: 8px;
+}
+.marg{
+    margin-left: 130px;
+}
+.card-mt{
+    margin-top:30px;
+}
+.card-mb{
+    margin-bottom: 30px;
+}
+.os{
+    text-align: right;
+}
+.scd{
+    height: 20rem;
+    object-fit: cover;
+}
+.inf-img{
+    height: 30rem;
+}
+.list{
+    text-align: end;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: x-large;
+    margin: 8px;
+}
+.mtt{
+    margin-top: 100px;
+}
